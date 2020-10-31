@@ -1,0 +1,209 @@
+API is started
+{
+  update_id: 73437249,
+  message: {
+    message_id: 242,
+    from: {
+      id: 1237901711,
+      is_bot: false,
+      first_name: 'Erick',
+      last_name: 'Burgos',
+      username: 'cracker_sniffer',
+      language_code: 'es'
+    },
+    chat: {
+      id: 1237901711,
+      first_name: 'Erick',
+      last_name: 'Burgos',
+      username: 'cracker_sniffer',
+      type: 'private'
+    },
+    date: 1598855337,
+    text: 'NES'
+  }
+}
+{
+  update_id: 73437250,
+  message: {
+    message_id: 244,
+    from: {
+      id: 1237901711,
+      is_bot: false,
+      first_name: 'Erick',
+      last_name: 'Burgos',
+      username: 'cracker_sniffer',
+      language_code: 'es'
+    },
+    chat: {
+      id: 1237901711,
+      first_name: 'Erick',
+      last_name: 'Burgos',
+      username: 'cracker_sniffer',
+      type: 'private'
+    },
+    date: 1598855339,
+    text: 'N64'
+  }
+}
+{
+  update_id: 73437251,
+  message: {
+    message_id: 246,
+    from: {
+      id: 1237901711,
+      is_bot: false,
+      first_name: 'Erick',
+      last_name: 'Burgos',
+      username: 'cracker_sniffer',
+      language_code: 'es'
+    },
+    chat: {
+      id: 1237901711,
+      first_name: 'Erick',
+      last_name: 'Burgos',
+      username: 'cracker_sniffer',
+      type: 'private'
+    },
+    date: 1598855346,
+    text: 'SNES'
+  }
+}
+{
+  update_id: 73437252,
+  message: {
+    message_id: 248,
+    from: {
+      id: 1237901711,
+      is_bot: false,
+      first_name: 'Erick',
+      last_name: 'Burgos',
+      username: 'cracker_sniffer',
+      language_code: 'es'
+    },
+    chat: {
+      id: 1237901711,
+      first_name: 'Erick',
+      last_name: 'Burgos',
+      username: 'cracker_sniffer',
+      type: 'private'
+    },
+    date: 1598855367,
+    text: 'NES'
+  }
+}
+{
+  update_id: 73437253,
+  message: {
+    message_id: 250,
+    from: {
+      id: 1237901711,
+      is_bot: false,
+      first_name: 'Erick',
+      last_name: 'Burgos',
+      username: 'cracker_sniffer',
+      language_code: 'es'
+    },
+    chat: {
+      id: 1237901711,
+      first_name: 'Erick',
+      last_name: 'Burgos',
+      username: 'cracker_sniffer',
+      type: 'private'
+    },
+    date: 1598855369,
+    text: 'N64'
+  }
+}
+{
+  update_id: 73437254,
+  message: {
+    message_id: 252,
+    from: {
+      id: 1237901711,
+      is_bot: false,
+      first_name: 'Erick',
+      last_name: 'Burgos',
+      username: 'cracker_sniffer',
+      language_code: 'es'
+    },
+    chat: {
+      id: 1237901711,
+      first_name: 'Erick',
+      last_name: 'Burgos',
+      username: 'cracker_sniffer',
+      type: 'private'
+    },
+    date: 1598855370,
+    text: 'GameBoy'
+  }
+}
+{
+  update_id: 73437255,
+  message: {
+    message_id: 254,
+    from: {
+      id: 1237901711,
+      is_bot: false,
+      first_name: 'Erick',
+      last_name: 'Burgos',
+      username: 'cracker_sniffer',
+      language_code: 'es'
+    },
+    chat: {
+      id: 1237901711,
+      first_name: 'Erick',
+      last_name: 'Burgos',
+      username: 'cracker_sniffer',
+      type: 'private'
+    },
+    date: 1598855372,
+    text: 'DS'
+  }
+}
+{
+  update_id: 73437256,
+  message: {
+    message_id: 256,
+    from: {
+      id: 1237901711,
+      is_bot: false,
+      first_name: 'Erick',
+      last_name: 'Burgos',
+      username: 'cracker_sniffer',
+      language_code: 'es'
+    },
+    chat: {
+      id: 1237901711,
+      first_name: 'Erick',
+      last_name: 'Burgos',
+      username: 'cracker_sniffer',
+      type: 'private'
+    },
+    date: 1598855374,
+    text: 'EMULADORES'
+  }
+}
+{
+  update_id: 73437257,
+  message: {
+    message_id: 258,
+    from: {
+      id: 1237901711,
+      is_bot: false,
+      first_name: 'Erick',
+      last_name: 'Burgos',
+      username: 'cracker_sniffer',
+      language_code: 'es'
+    },
+    chat: {
+      id: 1237901711,
+      first_name: 'Erick',
+      last_name: 'Burgos',
+      username: 'cracker_sniffer',
+      type: 'private'
+    },
+    date: 1598856347,
+    text: '/start',
+    entities: [ [Object] ]
+  }
+}
