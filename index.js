@@ -1,7 +1,8 @@
 const TG = require('telegram-bot-api')
 const db = require("./db");
 const api = new TG({
-    token: "1345431404:AAER3EuTD640zrigshFCdTcO4lzhb7qMvVc"
+    //Token API
+    token: "TOKEN"
 })
 
 const mp = new TG.GetUpdateMessageProvider()
